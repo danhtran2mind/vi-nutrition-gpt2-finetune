@@ -1,6 +1,6 @@
 # Vietnamese Nutrition GPT2 Finetune 🍲
 ## Introduction  
-The Vietnamese **Nutrition GPT-2 Finetune** is a language model fine-tuned on **Hanoi Medical College’s "Nutrition** in Rehabilitation" textbook, based on **NlpHUST/gpt2-vietnamese**. It provides accurate, Vietnamese-language nutrition guidance through an interactive Gradio interface on HuggingFace, with customizable text generation via a Python API. Ideal for researchers and nutrition enthusiasts.
+The Vietnamese **Nutrition GPT-2 Finetune** is a language model fine-tuned on **Hanoi Medical College’s "Nutrition in Rehabilitation"** textbook, based on **NlpHUST/gpt2-vietnamese**. It provides accurate, Vietnamese-language nutrition guidance through an interactive Gradio interface on HuggingFace, with customizable text generation via a Python API. Ideal for researchers and nutrition enthusiasts.
 
 ## Key Features
 - **Specialized Nutrition**: Fine-tuned on Hanoi Medical College’s "Nutrition in Rehabilitation" for Vietnamese guidance.
@@ -8,7 +8,7 @@ The Vietnamese **Nutrition GPT-2 Finetune** is a language model fine-tuned on **
 - **Interactive Demo**: Gradio interface on HuggingFace for custom input testing.
 - **Customizable Output**: Adjustable parameters (max_length, temperature, etc.).
   
-## Notenooks
+## Notebooks
 This is the Notebook of this Project:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danhtran2mind/vi-nutrition-gpt2-finetune/blob/main/notebooks/vi-nutrition-gpt2-finetune.ipynb)
