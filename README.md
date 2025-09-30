@@ -8,6 +8,17 @@ A comprehensive textbook on nutrition in the context of rehabilitation, publishe
 - **Interactive Demo**: Gradio interface on HuggingFace for custom input testing.
 - **Customizable Output**: Adjustable parameters (max_length, temperature, etc.).
   
+## Notenooks
+This is the Notebook of this Project:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danhtran2mind/vi-nutrition-gpt2-finetune/blob/main/notebooks/vi-nutrition-gpt2-finetune.ipynb)
+[![Open in SageMaker](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/danhtran2mind/vi-nutrition-gpt2-finetune/blob/main/notebooks/vi-nutrition-gpt2-finetune.ipynb)
+[![Open in Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://deepnote.com/launch?url=https://github.com/danhtran2mind/vi-nutrition-gpt2-finetune/blob/main/notebooks/vi-nutrition-gpt2-finetune.ipynb)
+[![JupyterLab](https://img.shields.io/badge/Launch-JupyterLab-orange?logo=Jupyter)](https://mybinder.org/v2/gh/danhtran2mind/vi-nutrition-gpt2-finetune/main?filepath=notebooks/vi-nutrition-gpt2-finetune.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danhtran2mind/vi-nutrition-gpt2-finetune/main)
+[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/notebooks/welcome?src=https%3A%2F%2Fgithub.com%2Fdanhtran2mind/vi-nutrition-gpt2-finetune/blob/main/notebooks/vi-nutrition-gpt2-finetune.ipynb)
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github)](https://github.com/danhtran2mind/vi-nutrition-gpt2-finetune/blob/main/notebooks/vi-nutrition-gpt2-finetune.ipynb)
+
 ## Dataset  
 - **Metadata:**  
   - **Title:** GIÁO TRÌNH DINH DƯỠNG TRONG PHỤC HỒI CHỨC NĂNG (Nutrition in Rehabilitation)  
