@@ -3,7 +3,11 @@
 A comprehensive textbook on nutrition in the context of rehabilitation, published by Hanoi Medical College. This resource provides detailed guidance on nutritional strategies to support functional recovery.
 
 ## Key Features
-
+- **Specialized Nutrition**: Fine-tuned on Hanoi Medical College’s "Nutrition in Rehabilitation" for Vietnamese guidance.
+- **Vietnamese Language**: Built on NlpHUST/gpt2-vietnamese for accurate text generation.
+- **Interactive Demo**: Gradio interface on HuggingFace for custom input testing.
+- **Customizable Output**: Adjustable parameters (max_length, temperature, etc.).
+  
 ## Dataset  
 - **Metadata:**  
   - **Title:** GIÁO TRÌNH DINH DƯỠNG TRONG PHỤC HỒI CHỨC NĂNG (Nutrition in Rehabilitation)  
@@ -23,7 +27,7 @@ Explore the underlying model and its resources on Hugging Face: [![HuggingFace
 Explore the interactive demo hosted on HuggingFace:
 [![HuggingFace Space Demo](https://img.shields.io/badge/HuggingFace-danhtran2mind%2Fvi--nutrition--gpt2--finetune-yellow?style=flat&logo=huggingface)](https://huggingface.co/spaces/danhtran2mind/vi-nutrition-gpt2-finetune)
 
-Below is a screenshot of the SlimFace Demo GUI:
+Below is a screenshot of the **Vietnamese Nutrition GPT2 Finetune** Demo GUI:
 
 <img src="./assets/gradio_app_demo.jpg" alt="SlimFace Demo" height="600">
 
